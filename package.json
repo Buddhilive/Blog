@@ -1,4 +1,7 @@
 {
+  "name": "buddhilive-blog",
+  "version": "0.0.1",
+  "description": "Buddhilive Academy",
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs"
