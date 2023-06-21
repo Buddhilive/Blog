@@ -1,0 +1,2 @@
+RewriteEngine on
+RedirectMatch 301 ^/\d{4}/\d{2}/(.*)$ /blog/$1
