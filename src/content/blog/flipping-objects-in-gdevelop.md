@@ -26,14 +26,14 @@ Go to event editor of scene “Level 1”. Select “Bob is Moving” sub task (
 Go to add action for this condition and Find and select **Flip the object horizontally**. Select “Bob” as the “Object” in the settings. Click **Yes** for “Activate flipping” and click **OK.** Then add another condition below it. This time, select **Change the animation (by name)** and select “Bob” as the object. Enter “run” as the animation name and hit **OK.**Remove the action in “Bob is moving” sub event.  
   
 
-[![](/images/28.%2Badd%2Bcondition.PNG)](https://1.bp.blogspot.com/--84i_hMyODY/Xp_nAE2oR-I/AAAAAAAALK0/ol9E6lXydVsVdLkz_pOm5BUfbEoK4uayQCLcBGAsYHQ/s1600/28.%2Badd%2Bcondition.PNG)
+[![](/images/28.+add+condition.PNG)](https://1.bp.blogspot.com/--84i_hMyODY/Xp_nAE2oR-I/AAAAAAAALK0/ol9E6lXydVsVdLkz_pOm5BUfbEoK4uayQCLcBGAsYHQ/s1600/28.+add+condition.PNG)
 
   
   
 
   
 
-[![](/images/28.%2Badd%2Bcondition.PNG)](https://1.bp.blogspot.com/--84i_hMyODY/Xp_nAE2oR-I/AAAAAAAALK4/cCcHG2WUeswWnRW9oE2EmyMrhMFYRBUUgCEwYBhgL/s1600/28.%2Badd%2Bcondition.PNG)
+[![](/images/28.+add+condition.PNG)](https://1.bp.blogspot.com/--84i_hMyODY/Xp_nAE2oR-I/AAAAAAAALK4/cCcHG2WUeswWnRW9oE2EmyMrhMFYRBUUgCEwYBhgL/s1600/28.+add+condition.PNG)
 
   
 

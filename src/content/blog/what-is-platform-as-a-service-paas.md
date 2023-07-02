@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Platform%2Bas%2Ba%2BService%2B%2528PaaS%2529.jpg)](http://4.bp.blogspot.com/-pzsd3TuuHZs/Vq46sohmvzI/AAAAAAAACsI/y_1wTXEXy18/s1600/Platform%2Bas%2Ba%2BService%2B%2528PaaS%2529.jpg)
+[![](/images/Platform+as+a+Service+PaaS.jpg)](http://4.bp.blogspot.com/-pzsd3TuuHZs/Vq46sohmvzI/AAAAAAAACsI/y_1wTXEXy18/s1600/Platform+as+a+Service+PaaS.jpg)
 
   
 Platform as a Service provides cloud based runtime environment for applications which offers tools for development and deployment that are required to develop applications. Some PaaS vendors provide point-and-click tools for non developers to develop web applications too.  

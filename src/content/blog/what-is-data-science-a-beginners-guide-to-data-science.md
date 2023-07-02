@@ -8,7 +8,7 @@ categories:
 heroImage: "/images/What+is+Data+Science.png"
 ---
 
-[![What is Data Science? A Beginner Guide to Data Science](/images/What%2Bis%2BData%2BScience.png)](https://1.bp.blogspot.com/-R1mCIK4kX2k/YBcFRFDlEDI/AAAAAAAAPgw/A_bna2U12d4QIQpRd-0Blf32gRdJ4L4iwCLcBGAsYHQ/s1280/What%2Bis%2BData%2BScience.png)
+[![What is Data Science? A Beginner Guide to Data Science](/images/What+is+Data+Science.png)](https://1.bp.blogspot.com/-R1mCIK4kX2k/YBcFRFDlEDI/AAAAAAAAPgw/A_bna2U12d4QIQpRd-0Blf32gRdJ4L4iwCLcBGAsYHQ/s1280/What+is+Data+Science.png)
 
   
 

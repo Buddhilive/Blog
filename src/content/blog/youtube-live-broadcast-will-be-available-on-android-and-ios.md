@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/maxresdefault%2B%25281%2529.jpg)](https://3.bp.blogspot.com/-2vUaDK6_-4s/VzhyZXbxqXI/AAAAAAAAC74/TptxiI7ycecNRedY094Aci8yS9IG5yCXwCKgB/s1600/maxresdefault%2B%25281%2529.jpg)
+[![](/images/maxresdefault+1.jpg)](https://3.bp.blogspot.com/-2vUaDK6_-4s/VzhyZXbxqXI/AAAAAAAAC74/TptxiI7ycecNRedY094Aci8yS9IG5yCXwCKgB/s1600/maxresdefault+1.jpg)
 
   
 Google announced that they intend to face the Facebook and Periscope to add a live streaming option directly in the YouTube app for Android and iOS.  

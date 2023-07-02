@@ -16,7 +16,7 @@ The new Google+ is relaunched focusing on interests and mobile-first rather than
 Google+ also updated its UI more mobile-friendly. The UI is designed to fit any screen size, that means the new interface is responsive. Interface is design according to the material design. It is simple and loads faster than the older Interface.  
   
 
-[![](/images/Dragon%2BFinal%2BAnimation.gif)](https://4.bp.blogspot.com/-1gaWI5avIxA/VkuUbwvAuoI/AAAAAAAARak/CBHevlSOjOU/s640/Dragon%2BFinal%2BAnimation.gif)
+[![](/images/Dragon+Final+Animation.gif)](https://4.bp.blogspot.com/-1gaWI5avIxA/VkuUbwvAuoI/AAAAAAAARak/CBHevlSOjOU/s640/Dragon+Final+Animation.gif)
 
   
 [Join](https://plus.google.com/) the new Google+ version. If you already a Google+ user [log in](https://plus.google.com/) to your account and switch to the new interface.  

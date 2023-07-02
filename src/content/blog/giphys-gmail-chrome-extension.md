@@ -16,7 +16,7 @@ GIPHY is a popular GIF catalogue where you can find thousands of interesting GIF
 
   
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://4.bp.blogspot.com/-81T6ZF60mLY/VsikPMoIacI/AAAAAAAACxw/uiNcajFfiy8/s1600/giphy%2B%25281%2529.gif" style="margin-left: auto; margin-right: auto;"><img border="0" height="367" src="images/giphy%2B%25281%2529.gif" width="400"></a></td></tr><tr><td style="text-align: center;">Image Credit: GIPHY</td></tr></tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" height="367" src="images/giphy.gif" width="400"></td></tr><tr><td style="text-align: center;">Image Credit: GIPHY</td></tr></tbody></table>
 
   
 

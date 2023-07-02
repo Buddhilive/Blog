@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/Top%2B10%2BMost%2BCommon%2BMistakes%2BThat%2BAndroid%2BDevelopers%2BMake.png)](https://2.bp.blogspot.com/--_BuFbwSXTU/WWt0hnw8gNI/AAAAAAAAERQ/8ny8PKTNnc8thkezS-fGFwuZEptxUcvegCLcBGAs/s1600/Top%2B10%2BMost%2BCommon%2BMistakes%2BThat%2BAndroid%2BDevelopers%2BMake.png)
+[![](/images/Top+10+Most+Common+Mistakes+That+Android+Developers+Make.png)](https://2.bp.blogspot.com/--_BuFbwSXTU/WWt0hnw8gNI/AAAAAAAAERQ/8ny8PKTNnc8thkezS-fGFwuZEptxUcvegCLcBGAs/s1600/Top+10+Most+Common+Mistakes+That+Android+Developers+Make.png)
 
   
 

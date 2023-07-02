@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/How-to-add-Chrome-Browser%2527s-Tirex-Game-to-Electron-Browser.jpg)](https://2.bp.blogspot.com/-S0C1olbBKis/XECSkUFGtOI/AAAAAAAAIJQ/_leRMbpq1zwBSo2xYSlmVj-ufIQVim2-QCLcBGAs/s1600/How-to-add-Chrome-Browser%2527s-Tirex-Game-to-Electron-Browser.jpg)
+[![](/images/How-to-add-Chrome-Browsers-Tirex-Game-to-Electron-Browser.jpg)](https://2.bp.blogspot.com/-S0C1olbBKis/XECSkUFGtOI/AAAAAAAAIJQ/_leRMbpq1zwBSo2xYSlmVj-ufIQVim2-QCLcBGAs/s1600/How-to-add-Chrome-Browser%2527s-Tirex-Game-to-Electron-Browser.jpg)
 
   
 

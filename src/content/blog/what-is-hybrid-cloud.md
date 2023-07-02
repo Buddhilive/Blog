@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Hybrid%2BCloud.jpg)](http://3.bp.blogspot.com/-3z9TGNVuAz8/Vq44by4Lc0I/AAAAAAAACrs/40IITllJywo/s1600/Hybrid%2BCloud.jpg)
+[![](/images/Hybrid+Cloud.jpg)](http://3.bp.blogspot.com/-3z9TGNVuAz8/Vq44by4Lc0I/AAAAAAAACrs/40IITllJywo/s1600/Hybrid+Cloud.jpg)
 
   
 Hybrid Cloud is a fusion of Public cloud and Private Cloud. Hybrid Cloud is used to perform critical operations using Private Cloud while non-critical operations are performed using Public Cloud. Hybrid cloud also have advantages as well as disadvantages;  

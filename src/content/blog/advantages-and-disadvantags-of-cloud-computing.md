@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Advantages%2Band%2BDisadvantags%2Bof%2BCloud%2BComputing.jpg)](http://1.bp.blogspot.com/-sXKIb0OUZ2Q/Vq41YF4sAPI/AAAAAAAACrM/vsaRNyx54pw/s1600/Advantages%2Band%2BDisadvantags%2Bof%2BCloud%2BComputing.jpg)
+[![](/images/Advantages+and+Disadvantags+of+Cloud+Computing.jpg)](http://1.bp.blogspot.com/-sXKIb0OUZ2Q/Vq41YF4sAPI/AAAAAAAACrM/vsaRNyx54pw/s1600/Advantages+and+Disadvantags+of+Cloud+Computing.jpg)
 
 ## 
 

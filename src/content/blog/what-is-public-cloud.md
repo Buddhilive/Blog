@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Public%2BCloud.jpg)](http://4.bp.blogspot.com/-amIK5xJh__U/Vq41_d67NTI/AAAAAAAACrU/3Fgx12yilkc/s1600/Public%2BCloud.jpg)
+[![](/images/Public+Cloud.jpg)](http://4.bp.blogspot.com/-amIK5xJh__U/Vq41_d67NTI/AAAAAAAACrU/3Fgx12yilkc/s1600/Public+Cloud.jpg)
 
   
 Public cloud grants accessibility of systems and various services to general public. Eg: Google, Microsoft, Amazon etc. Advantages and Disadvantages of Public Cloud is as follows;  

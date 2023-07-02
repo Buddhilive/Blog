@@ -6,7 +6,7 @@ categories:
   - "google-cloud"
 ---
 
-[![](/images/dc%2Bmap.png)](http://1.bp.blogspot.com/-xXr1iJiCWZo/VhAAa8bt5vI/AAAAAAAACSI/cycL2EKF9Oo/s1600/dc%2Bmap.png)
+[![](/images/dc+map.png)](http://1.bp.blogspot.com/-xXr1iJiCWZo/VhAAa8bt5vI/AAAAAAAACSI/cycL2EKF9Oo/s1600/dc+map.png)
 
   
 

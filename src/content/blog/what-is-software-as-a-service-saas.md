@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Software%2Bas%2Ba%2BService%2B%2528SaaS%2529.jpg)](http://1.bp.blogspot.com/-MTIOkrWFb8g/Vq47DKUBHOI/AAAAAAAACsQ/W9ahMaaHTxI/s1600/Software%2Bas%2Ba%2BService%2B%2528SaaS%2529.jpg)
+[![](/images/Software+as+a+Service+SaaS.jpg)](http://1.bp.blogspot.com/-MTIOkrWFb8g/Vq47DKUBHOI/AAAAAAAACsQ/W9ahMaaHTxI/s1600/Software+as+a+Service+SaaS.jpg)
 
   
 

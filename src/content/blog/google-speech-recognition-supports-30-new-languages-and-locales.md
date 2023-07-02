@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://3.bp.blogspot.com/-vqWBoogGi8o/WZHLacPHmMI/AAAAAAAAEUk/G3KFhU39odEmwtoibLDneUKV95rWtPlkQCLcBGAs/s1600/speech_recognition%252520%2525281%252529.gif" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="864" data-original-width="864" height="400" src="images/speech_recognition%252520%2525281%252529.gif" width="400"></a></td></tr><tr><td style="text-align: center;">Photo Credit: Google</td></tr></tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://3.bp.blogspot.com/-vqWBoogGi8o/WZHLacPHmMI/AAAAAAAAEUk/G3KFhU39odEmwtoibLDneUKV95rWtPlkQCLcBGAs/s1600/speech_recognition%252520%2525281%252529.gif" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="864" data-original-width="864" height="400" src="images/speech_recognition.gif" width="400"></a></td></tr><tr><td style="text-align: center;">Photo Credit: Google</td></tr></tbody></table>
 
 Google added 30 new languages and locales around the world enabling voice recognition in Gboard on Android, Voice Search and many other services. So from now, people who speak following language can talk to the phone instead of typing;
 

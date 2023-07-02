@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Community%2BCloud.jpg)](http://3.bp.blogspot.com/-boDRLjYa8PE/Vq45R89gymI/AAAAAAAACr4/Udgt4MzMN0A/s1600/Community%2BCloud.jpg)
+[![](/images/Community+Cloud.jpg)](http://3.bp.blogspot.com/-boDRLjYa8PE/Vq45R89gymI/AAAAAAAACr4/Udgt4MzMN0A/s1600/Community+Cloud.jpg)
 
   
 Community Cloud is used to share the IT Infrastructure among group of organizations from a specific community. So that group of organizations can access the system and services which is managed internally or by third party. Advantages and disadvantages of Community Cloud is as follows;  

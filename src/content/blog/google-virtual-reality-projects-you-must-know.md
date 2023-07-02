@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/Google%2BVR.PNG)](https://3.bp.blogspot.com/-HP0Z2qRWNbo/WHuyWoWl5EI/AAAAAAAAD6g/jFyKkGNRwuE5lhKeJQRz_32QFLVLjdEWACLcB/s1600/Google%2BVR.PNG)
+[![](/images/Google+VR.PNG)](https://3.bp.blogspot.com/-HP0Z2qRWNbo/WHuyWoWl5EI/AAAAAAAAD6g/jFyKkGNRwuE5lhKeJQRz_32QFLVLjdEWACLcB/s1600/Google+VR.PNG)
 
   
 

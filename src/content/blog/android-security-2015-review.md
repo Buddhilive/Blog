@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/Android%2BSecurity%2BReport%2B2015.jpg)](https://4.bp.blogspot.com/--teUrfj-RzI/VyDehiDKzsI/AAAAAAAAC5Q/k9ZS2rzVYaIat69RqymHV-p1aMuvO2odgCLcB/s1600/Android%2BSecurity%2BReport%2B2015.jpg)
+[![](/images/Android+Security+Report+2015.jpg)](https://4.bp.blogspot.com/--teUrfj-RzI/VyDehiDKzsI/AAAAAAAAC5Q/k9ZS2rzVYaIat69RqymHV-p1aMuvO2odgCLcB/s1600/Android+Security+Report+2015.jpg)
 
   
 

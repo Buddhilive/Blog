@@ -8,7 +8,7 @@ categories:
   - "google-data-studio"
 ---
 
-[![What is Google Data Studio](/images/Tutorial%2B1.png)](https://1.bp.blogspot.com/-cFCdj1PPbZY/YCi_fgz0cdI/AAAAAAAAPms/l-q24RTxcwwvstg8S4XLYgw4dTuxm4ZRACLcBGAsYHQ/s1280/Tutorial%2B1.png)
+[![What is Google Data Studio](/images/Tutorial+1.png)](https://1.bp.blogspot.com/-cFCdj1PPbZY/YCi_fgz0cdI/AAAAAAAAPms/l-q24RTxcwwvstg8S4XLYgw4dTuxm4ZRACLcBGAsYHQ/s1280/Tutorial+1.png)
 
   
 

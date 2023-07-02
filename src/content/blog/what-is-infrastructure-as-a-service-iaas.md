@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Infrastructure%2Bas%2Ba%2BService%2B%2528Iaas%2529.jpg)](http://3.bp.blogspot.com/-fPsTo3eLy6A/Vq45-9RzzWI/AAAAAAAACsA/B-1vtEQnldg/s1600/Infrastructure%2Bas%2Ba%2BService%2B%2528Iaas%2529.jpg)
+[![](/images/Infrastructure+as+a+Service+Iaas.jpg)](http://3.bp.blogspot.com/-fPsTo3eLy6A/Vq45-9RzzWI/AAAAAAAACsA/B-1vtEQnldg/s1600/Infrastructure+as+a+Service+(Iaas).jpg)
 
   
 

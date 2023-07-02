@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/14.%2Badd-animation.PNG)](https://1.bp.blogspot.com/-pcOOX_4nRAU/Xp4DFto3MbI/AAAAAAAALIc/75HpCP3gF68u2QV-02aU1H8DthWfvXVeACLcBGAsYHQ/s1600/14.%2Badd-animation.PNG)
+[![](/images/14.+add-animation.PNG)](https://1.bp.blogspot.com/-pcOOX_4nRAU/Xp4DFto3MbI/AAAAAAAALIc/75HpCP3gF68u2QV-02aU1H8DthWfvXVeACLcBGAsYHQ/s1600/14.+add-animation.PNG)
 
   
   
@@ -23,7 +23,7 @@ Click **ADD AN ANIMATION +** button again. Rename this animation to “jump”. 
 
   
 
-[![](/images/15.%2Badd%2Banimation.PNG)](https://1.bp.blogspot.com/-CPKhIBesphY/Xp4EUQ32jAI/AAAAAAAALIw/peIeVsUVKf0giLqWwNuofDYpT-99rKZGwCLcBGAsYHQ/s1600/15.%2Badd%2Banimation.PNG)
+[![](/images/15.+add+animation.PNG)](https://1.bp.blogspot.com/-CPKhIBesphY/Xp4EUQ32jAI/AAAAAAAALIw/peIeVsUVKf0giLqWwNuofDYpT-99rKZGwCLcBGAsYHQ/s1600/15.+add+animation.PNG)
 
   
 
@@ -36,7 +36,7 @@ If everything is done, click **APPLY** to save the changes you’ve made. If you
 Switch to “Level 1” scene’s event editor. You’ll see nothing at the moment. Since we haven’t created any event so far. This is where we add our game logic. You don’t need any coding knowledge to create events. It’s pretty simple visual editor anyone can learn within short period of time. But if you have a basic knowledge in programing concepts, that would be great. Anyways, it not compulsory to know coding.  
   
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-_t55a2iXed8/Xp4ElV17zSI/AAAAAAAALI4/Tl7DRMy4e_csHjd2nbmAL38tig4tTHt_wCLcBGAsYHQ/s1600/16.%2Badd-new-event.PNG" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="49" data-original-width="42" src="images/16.%2Badd-new-event.PNG"></a></td></tr><tr><td style="text-align: center;">Figure 1 - Add anew empty event</td></tr></tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-_t55a2iXed8/Xp4ElV17zSI/AAAAAAAALI4/Tl7DRMy4e_csHjd2nbmAL38tig4tTHt_wCLcBGAsYHQ/s1600/16.+add-new-event.PNG" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="49" data-original-width="42" src="images/16.+add-new-event.PNG"></a></td></tr><tr><td style="text-align: center;">Figure 1 - Add anew empty event</td></tr></tbody></table>
 
   
 
@@ -54,7 +54,7 @@ Click **Add a new empty event** button (Figure 1) from the top tool bar. This wi
 From the list of conditions in the left side, select **Is jumping**under _Platform BehaviorI_ or just simply type “is jumping” in search bar to find and select the condition. On the right side, all settings related to the condition we selected will appear. For “Is jumping” we need to configure which object’s movement we need to track. Select “Bob” from the dropdown. If you did correctly, your condition will look something just like this;  
   
 
-[![](/images/24.%2Bjumping.PNG)](https://1.bp.blogspot.com/-0xyN4ru6jNg/Xp4GjHsiglI/AAAAAAAALJg/8Uo2VPpLOY0uo_wvRv1aQc8DcIVuOy7HwCEwYBhgLKs0DAL1OcqyUtlQ6ylpqUj41JEZQfdo9MTDOkqTk7HW_J1VI5XmfPCHl8QhdPAO779Aa2hP1-tgIZs8KqNmU7wUZ5ebmBus2d7NUfgIyjSnioBuivVl149PZH_ji6nsV0HpI7zgNWISGKNI3j_O_LZ6GQzqjy0tLsIVgNtrA5X1X-EyPUBvw1nWo5_oSy5S7CzjHJCW3oVZB2QpSr2waSoqBzlvTPZUxED0-e2POJWO_h_BRO9U6XbUFHAY9rUER-RdyC65P3sdy1pbE77i3GlQRosYuhKapxHWbJEaF5gTyANb6KZoGdZZqfUZ4dUEtyobaPN6Pn_0fSEuJNkb0N0J31mLSbi8ExVIe13-2Wbf7Xv1XbBoTuEBCdihzp8ITRRG-xhlYSjZrDW6PgI3hrfbLX7awvdjAb9LMos3uH-K9K-nP7CBtZ2UnitWrg0YlXweLbypDFVUDKTMd9xTWakMTfWrUH0wnCAefj3G335vYWOCQpPL-1T3pXVh2kb8MA6hI_ELDMWhi9cwOdValI6VQ79Qkuql4MFW4_woG2VZSFLhLnnssXASIv063WUj9Q4Ielq0fjuz9tQk2taDJGGZ5QaGOnns4kszTZYHi2kEwhZL49AU/s1600/24.%2Bjumping.PNG)
+[![](/images/24.+jumping.PNG)](https://1.bp.blogspot.com/-0xyN4ru6jNg/Xp4GjHsiglI/AAAAAAAALJg/8Uo2VPpLOY0uo_wvRv1aQc8DcIVuOy7HwCEwYBhgLKs0DAL1OcqyUtlQ6ylpqUj41JEZQfdo9MTDOkqTk7HW_J1VI5XmfPCHl8QhdPAO779Aa2hP1-tgIZs8KqNmU7wUZ5ebmBus2d7NUfgIyjSnioBuivVl149PZH_ji6nsV0HpI7zgNWISGKNI3j_O_LZ6GQzqjy0tLsIVgNtrA5X1X-EyPUBvw1nWo5_oSy5S7CzjHJCW3oVZB2QpSr2waSoqBzlvTPZUxED0-e2POJWO_h_BRO9U6XbUFHAY9rUER-RdyC65P3sdy1pbE77i3GlQRosYuhKapxHWbJEaF5gTyANb6KZoGdZZqfUZ4dUEtyobaPN6Pn_0fSEuJNkb0N0J31mLSbi8ExVIe13-2Wbf7Xv1XbBoTuEBCdihzp8ITRRG-xhlYSjZrDW6PgI3hrfbLX7awvdjAb9LMos3uH-K9K-nP7CBtZ2UnitWrg0YlXweLbypDFVUDKTMd9xTWakMTfWrUH0wnCAefj3G335vYWOCQpPL-1T3pXVh2kb8MA6hI_ELDMWhi9cwOdValI6VQ79Qkuql4MFW4_woG2VZSFLhLnnssXASIv063WUj9Q4Ielq0fjuz9tQk2taDJGGZ5QaGOnns4kszTZYHi2kEwhZL49AU/s1600/24.+jumping.PNG)
 
   
 
@@ -66,7 +66,7 @@ Now find **Sprite** category and open **Animations and images** sub category. Se
 
   
 
-[![](/images/25.%2Bjump-animation.PNG)](https://1.bp.blogspot.com/-_INq91gdUks/Xp4HDw-i_BI/AAAAAAAALJo/zTjgTMgdINQn4mc8ODbOd4wMNZekOrqmwCLcBGAsYHQ/s1600/25.%2Bjump-animation.PNG)
+[![](/images/25.+jump-animation.PNG)](https://1.bp.blogspot.com/-_INq91gdUks/Xp4HDw-i_BI/AAAAAAAALJo/zTjgTMgdINQn4mc8ODbOd4wMNZekOrqmwCLcBGAsYHQ/s1600/25.+jump-animation.PNG)
 
   
 

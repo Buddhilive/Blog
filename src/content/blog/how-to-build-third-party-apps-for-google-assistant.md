@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/unnamed%2B%25281%2529.jpg)](https://4.bp.blogspot.com/-DDpN8KmLybo/XNZJNqw1liI/AAAAAAAAI5A/kn2c--QY01kg7oZp0GoaHgmElrcTGk-zACPcBGAYYCw/s1600/unnamed%2B%25281%2529.jpg)
+[![](/images/google_assistant.jpg)](https://4.bp.blogspot.com/-DDpN8KmLybo/XNZJNqw1liI/AAAAAAAAI5A/kn2c--QY01kg7oZp0GoaHgmElrcTGk-zACPcBGAYYCw/s1600/unnamed+(1).jpg)
 
   
 

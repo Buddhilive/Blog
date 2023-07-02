@@ -80,7 +80,7 @@ First give a name to that object. This name should be meaningful, because we are
 Now click on **ADD +** button. Sprites can be animated. So you can add one or more images to sprite. And a sprite can have several animations. In here we are going to add the “Idle” animation for the sprite. In the _Choose an_ image window, navigate to downloaded assets folder. Go to _Player > Idle_ and select all the images. Click _Open_ to add all the images. Click **Loop** to enable it and rename the animation to “idle” (Optional). Now you should see something just like this;  
   
 
-[![](/images/7.add%2Bsprite.PNG)](https://1.bp.blogspot.com/-psmHCbLwg4U/Xpydvsk49lI/AAAAAAAALGU/Txtm62q6JRcGZ-DFYXJnAA3gHTPq8CQRgCLcBGAsYHQ/s1600/7.add%2Bsprite.PNG)
+[![](/images/7.add+sprite.PNG)](https://1.bp.blogspot.com/-psmHCbLwg4U/Xpydvsk49lI/AAAAAAAALGU/Txtm62q6JRcGZ-DFYXJnAA3gHTPq8CQRgCLcBGAsYHQ/s1600/7.add+sprite.PNG)
 
   
 
@@ -93,7 +93,7 @@ Now click **APPLY** to add the object in to the scene. You can see the object we
 Let’s add the player to the scene. It’s very simple. Drag and drop the object “Bob” to the canvas (gray color area in the middle. This is the canvas.) Now you will be able to see your player object in the canvas. This is how we add objects to the scene. After adding the object to the scene, you can drag it and place it in a desired location.  
   
 
-[![](/images/8.add-object-to%2Bthe%2Bscene.png)](https://1.bp.blogspot.com/-yBe4VW0jrwU/XpyeEYbyi6I/AAAAAAAALGc/e3QuU3J7dt0JC1MhMNBz9iYNc9fxRmWIQCLcBGAsYHQ/s1600/8.add-object-to%2Bthe%2Bscene.png)
+[![](/images/8.add-object-to+the+scene.png)](https://1.bp.blogspot.com/-yBe4VW0jrwU/XpyeEYbyi6I/AAAAAAAALGc/e3QuU3J7dt0JC1MhMNBz9iYNc9fxRmWIQCLcBGAsYHQ/s1600/8.add-object-to+the+scene.png)
 
   
 

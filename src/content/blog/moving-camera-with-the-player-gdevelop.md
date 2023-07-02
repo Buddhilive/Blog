@@ -19,7 +19,7 @@ Add new empty event. We don’t need a condition for this event. We only need to
 
   
 
-[![](/images/31.Center%2Bthe%2Bcamera%2Bon%2Ban%2Bobject.PNG)](https://1.bp.blogspot.com/--0f2avg7NgQ/XqMs1Y7ObZI/AAAAAAAALNw/5ZPpsvptIEIhXV1ANHfZb6GHBS1Iaa2PgCLcBGAsYHQ/s1600/31.Center%2Bthe%2Bcamera%2Bon%2Ban%2Bobject.PNG)
+[![](/images/31.Center+the+camera+on+an+object.PNG)](https://1.bp.blogspot.com/--0f2avg7NgQ/XqMs1Y7ObZI/AAAAAAAALNw/5ZPpsvptIEIhXV1ANHfZb6GHBS1Iaa2PgCLcBGAsYHQ/s1600/31.Center+the+camera+on+an+object.PNG)
 
   
 

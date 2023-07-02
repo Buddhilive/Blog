@@ -7,7 +7,7 @@ categories:
 heroImage: "/images/Machine+Learning+Algorithms.png"
 ---
 
-[![Machine Learning Algorithms Cheat Sheet and how to choose an algorithm](/images/Machine%2BLearning%2BAlgorithms.png)](https://1.bp.blogspot.com/-dzztxX7TY98/YCIIdwQk9tI/AAAAAAAAPlc/uNB_A8ZNlTcb1khH1rKQcByJWiS945PjACLcBGAsYHQ/s1280/Machine%2BLearning%2BAlgorithms.png)
+[![Machine Learning Algorithms Cheat Sheet and how to choose an algorithm](/images/Machine+Learning+Algorithms.png)](https://1.bp.blogspot.com/-dzztxX7TY98/YCIIdwQk9tI/AAAAAAAAPlc/uNB_A8ZNlTcb1khH1rKQcByJWiS945PjACLcBGAsYHQ/s1280/Machine+Learning+Algorithms.png)
 
 With the evolution of artificial intelligence, computer science researchers are constantly suggesting new approaches to make computers even more autonomous and capable of performing various tasks with precision. Traditionally, programmers have always developed systems by clearly specifying each step in code. For this, software engineers needed to know the problems they were trying to solve and have a good idea of ​​all the variables and possibilities involved. Machine Learning (ML) is a subfield of artificial intelligence that aims to solve more complex problems, of which programmers still do not have such a wide knowledge. [Learn what is machine learning from my previous article.](https://www.buddhilive.com/2020/06/25/what-is-machine-learning-a-brief-introduction/) 
 

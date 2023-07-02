@@ -6,7 +6,7 @@ categories:
   - "cloud-tutorial"
 ---
 
-[![](/images/Private%2BCloud.jpg)](http://4.bp.blogspot.com/-I8Kth4ECK0U/Vq43ZynCm3I/AAAAAAAACrg/gawnS3cvEMU/s1600/Private%2BCloud.jpg)
+[![](/images/Private+Cloud.jpg)](http://4.bp.blogspot.com/-I8Kth4ECK0U/Vq43ZynCm3I/AAAAAAAACrg/gawnS3cvEMU/s1600/Private+Cloud.jpg)
 
   
 Private cloud is hosted and operated only within a organization, and it can be managed internally or by third party. Only users within the organization can access the system and services. Let's take a look what are the advantages and disadvatages of Private Cloud.  

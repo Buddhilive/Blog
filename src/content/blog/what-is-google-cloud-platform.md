@@ -24,7 +24,7 @@ Google Cloud Platform is the Cloud Service provided by the search giant Google. 
 
   
 
-[![](/images/Google%2BCloud%2BComputing.png)](http://2.bp.blogspot.com/-LfKAzTTtKlU/Vk2X6PY-M-I/AAAAAAAACiE/1WWH2c3UQDE/s1600/Google%2BCloud%2BComputing.png)
+[![](/images/Google+Cloud+Computing.png)](http://2.bp.blogspot.com/-LfKAzTTtKlU/Vk2X6PY-M-I/AAAAAAAACiE/1WWH2c3UQDE/s1600/Google+Cloud+Computing.png)
 
   
   

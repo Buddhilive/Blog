@@ -6,7 +6,7 @@ categories:
   - "archived"
 ---
 
-[![](/images/Provo%2BSpeedtest.PNG)](https://2.bp.blogspot.com/-8jucNQyz8UU/V3e-OHmxDZI/AAAAAAAADBo/6KkxVBqL9982-e8byDT9wSOAcglOdgjJACLcB/s1600/Provo%2BSpeedtest.PNG)
+[![](/images/Provo+Speedtest.PNG)](https://2.bp.blogspot.com/-8jucNQyz8UU/V3e-OHmxDZI/AAAAAAAADBo/6KkxVBqL9982-e8byDT9wSOAcglOdgjJACLcB/s1600/Provo+Speedtest.PNG)
 
   
 
