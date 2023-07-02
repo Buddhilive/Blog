@@ -1,10 +1,11 @@
 ---
 title: "What is Data Science? A Beginner's Guide to Data Science"
-description: "...."
+description: "Data Science has become a hot topic these days. But what exactly is data science? "
 pubDate: "2021-01-31"
 categories: 
   - "data-analytics"
   - "data-science"
+heroImage: "/images/What+is+Data+Science.png"
 ---
 
 [![What is Data Science? A Beginner Guide to Data Science](/images/What%2Bis%2BData%2BScience.png)](https://1.bp.blogspot.com/-R1mCIK4kX2k/YBcFRFDlEDI/AAAAAAAAPgw/A_bna2U12d4QIQpRd-0Blf32gRdJ4L4iwCLcBGAsYHQ/s1280/What%2Bis%2BData%2BScience.png)

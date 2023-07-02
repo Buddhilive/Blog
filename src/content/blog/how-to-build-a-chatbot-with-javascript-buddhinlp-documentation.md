@@ -1,13 +1,12 @@
 ---
 title: "How to Build a Chatbot using JavaScript"
-description: "...."
+description: "BuddhiNLP is a Open Source NodeJS library for building chatbots."
 pubDate: "2021-01-05"
 categories: 
   - "machine-learning"
   - "tensorflow"
+heroImage: "/images/buddhi-nlp-cover.jpg"
 ---
-
-[![](/images/buddhi-nlp-cover.jpg)](https://1.bp.blogspot.com/-vGxtXb1GX_c/X_SFhYGeFfI/AAAAAAAAPAA/uLJu9FZ5J5E72Q4Pytk0d6QfVd5aAaGwACPcBGAsYHg/s1366/buddhi-nlp-cover.jpg)
 
 > Note: This package is deprecated. Please switch to **berkelium** instead. Documentation available at [https://berkelium.dev](https://berkelium.dev)
 > 

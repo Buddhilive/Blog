@@ -1,9 +1,11 @@
 ---
 title: "UIzard: A Rapid, AI-Powered UI Design Tool"
-description: "...."
+description: "In today's fast-paced world, businesses need to be able to bring new products to market quickly and efficiently. One of the biggest challenges in product development is creating user interfaces (UIs) that are both visually appealing and functional."
 pubDate: "2023-06-11"
 categories: 
   - "artificial-intelligence"
+heroImage: "/images/uizard.png"
+badge: "New"
 ---
 
 In today's fast-paced world, businesses need to be able to bring new products to market quickly and efficiently. One of the biggest challenges in product development is creating user interfaces (UIs) that are both visually appealing and functional. Traditionally, UI design has been a time-consuming and expensive process. Designers would need to spend hours sketching, wireframing, and prototyping designs before they could even begin to test them with users. This process could often take weeks or even months, which can be a major barrier for startups and small businesses with limited resources.

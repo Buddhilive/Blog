@@ -1,12 +1,13 @@
 ---
 title: "What are TensorFlow and Keras?"
-description: "...."
+description: "You must be wondering what is TensorFlow and Keras are? Are those similar or different? Let's understand what are TensorFlow and Keras and how exactly we can use these tools."
 pubDate: "2021-01-29"
 categories: 
   - "deep-learning"
   - "keras"
   - "machine-learning"
   - "tensorflow"
+heroImage: "/images/TensorFlow+and+Keras.png"
 ---
 
 [![What are Tensorflow and Keras?](/images/TensorFlow%2Band%2BKeras.png)](https://1.bp.blogspot.com/-HGJe35e6YLI/YBG5jOBtmrI/AAAAAAAAPXQ/T8Cs8A5_t7E2GzgUR0Ewkw46ZUejXUZgACLcBGAsYHQ/s1280/TensorFlow%2Band%2BKeras.png)

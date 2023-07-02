@@ -1,11 +1,12 @@
 ---
 title: "Launching BerkeliumLabs - OpenSource Machine Learning Projects"
-description: "...."
+description: "Here I will be sharing all my open source projects that will be useful for developers all around the world."
 pubDate: "2022-05-16"
 categories: 
   - "chatbot"
   - "machine-learning"
   - "tensorflow"
+heroImage: "/images/We speak Data Science.png"
 ---
 
 [![](/images/We%20speak%20Data%20Science.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnZ7Z5FvevVKMJK8sJornC8RgP6Ueas-qFmJlRfXLPD81FFccVA4-niFViGZuSjiPOYS1DFXMl0HxrXAIVNmQHF7J_MTGt-wcE_nQ1a2yf3PSA_f4h1DmbVESrHO87vfsNIKRUeQODGTTqg1Au_6dsDDrZeVa6Zm5s8O9qvHxUNGNH1v5NDfUVBIw/s1640/We%20speak%20Data%20Science.png)

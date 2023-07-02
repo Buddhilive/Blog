@@ -15,7 +15,7 @@ const { title, description, image = '/social_img.png' } = Astro.props;
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/png" href="/Buddhilive.png" />
 <meta name="generator" content={Astro.generator} />
 
 <!-- Primary Meta Tags -->
@@ -31,8 +31,25 @@ const { title, description, image = '/social_img.png' } = Astro.props;
 <meta property="og:image" content={new URL(image, Astro.url)} />
 
 <!-- Twitter -->
+<meta name="author" content="Buddhi Kavindra" />
+<meta name="twitter:creator" content="@https://twitter.com/Buddhilive" />
+<meta name="twitter:site" content="@Buddhilive" />
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={Astro.url} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69866399-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-69866399-2');
+</script>
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9435032914308988"
+     crossorigin="anonymous"></script>

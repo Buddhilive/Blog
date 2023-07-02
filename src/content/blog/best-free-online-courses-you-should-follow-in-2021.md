@@ -1,17 +1,14 @@
 ---
 title: "Best Free Online Courses You Should Follow in 2021"
-description: "...."
+description: "These courses are completely free! I have categorized those courses to in industries for your ease."
 pubDate: "2021-01-10"
 categories: 
   - "cloud-tutorial"
   - "machine-learning"
   - "tech-tips"
   - "tensorflow"
----
-
-[![Best Free Online Courses](/images/best-free-online-courses-to-study-300x200.jpg "Best Free Online Courses")](https://www.buddhilive.com/wp-content/uploads/2021/01/best-free-online-courses-to-study.jpg)
-
-  
+heroImage: "/images/best-free-online-courses-to-study.jpg"
+---  
 
 It's the beginning of a new year. You may have big goals and big dreams to achieve this year for sure. Career development and skill development are some goals you should have. To give you a little push to achieve that goal, I thought of sharing some useful **FREE ONLINE COURSES** that will help you to learn new skill or to develop your existing skills.
 

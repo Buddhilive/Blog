@@ -5,7 +5,7 @@ import { getCollection } from "astro:content";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const last_posts = posts.slice(0, 3);
+const last_posts = posts.slice(0, 5);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -34,26 +34,25 @@ const last_posts = posts.slice(0, 3);
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    title="Berkelium NLP"
+    img="/assets/berkelium_nlp.png"
+    desc="Berkelium is an open-source natural language processing JavaScript library for intent classification and response retrieval for building chatbots."
+    url="https://github.com/BerkeliumLabs/berkelium-dev-kit"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="BL Studio"
+    img="/images/bl-studio-logo-cover.png"
+    desc="BL Studio is an open-source collection of tools for generating music using Artificial Intelligence."
+    url="https://github.com/Buddhilive/bl-studio"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="Solias"
+    img="/assets/solias.png"
+    desc="Web Component Library made using Angular Elements."
+    url="https://github.com/Buddhilive/solias"
     badge="NEW"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="FOSS"
   />
 
   <div>

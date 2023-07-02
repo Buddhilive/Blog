@@ -1,12 +1,13 @@
 ---
 title: "JavaScript Chatbot Framework - Berkelium"
-description: "...."
+description: "Building a chatbot is becoming very popular these days. There are many frameworks and tools for developing chatbots."
 pubDate: "2022-11-27"
 categories: 
   - "berkelium"
   - "chatbot"
   - "machine-learning"
   - "tensorflow"
+heroImage: "/images/berkelium-javascript-chatbot-framework.png"
 ---
 
 Building a chatbot is becoming very popular these days. There are many frameworks and tools for developing chatbots. JavaScript is a popular language among many developers. So JavaScript developers prefer to use a JS library to build chatbots for their projects. Especially, when it comes to web, chatbots are really important for many web applications. So, the need of JavaScript chatbot framework is important.

@@ -1,9 +1,10 @@
 ---
 title: "Free Video Editor Without Watermark"
-description: "...."
+description: "Creating a video these days is pretty much easy. There are plenty of platforms that allows you to create videos easily."
 pubDate: "2021-01-20"
 categories: 
   - "tech-tips"
+heroImage: "/images/video-editor.jpg"
 ---
 
 [![Free Video Editor Without Watermark](/images/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038-300x200.jpg)](https://www.buddhilive.com/wp-content/uploads/2021/01/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg)

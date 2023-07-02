@@ -5,47 +5,42 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
   <div>
-    <div class="text-3xl w-full font-bold mb-5">Projects Header</div>
+    <div class="text-3xl w-full font-bold mb-5">My Top Projects</div>
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    title="Berkelium NLP"
+    img="/assets/berkelium_nlp.png"
+    desc="Berkelium is an open-source natural language processing JavaScript library for intent classification and response retrieval for building chatbots."
+    url="https://github.com/BerkeliumLabs/berkelium-dev-kit"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="BL Studio"
+    img="/images/bl-studio-logo-cover.png"
+    desc="BL Studio is an open-source collection of tools for generating music using Artificial Intelligence."
+    url="https://github.com/Buddhilive/bl-studio"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="Solias"
+    img="/assets/solias.png"
+    desc="Web Component Library made using Angular Elements."
+    url="https://github.com/Buddhilive/solias"
     badge="NEW"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-  />
-
-  <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Projects Header</div>
-  </div>
-
-  <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="FOSS"
+    title="Electron Browser"
+    img="/images/browser.png"
+    desc="A web browser project developed using Electron and JavaScript"
+    url="https://github.com/Buddhilive/Electron-Browser"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 4"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 5"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    title="JavaFX Browser"
+    img="/assets/javafx_browser.png"
+    desc="Simple open source browser project developed using JavaFX Technology."
+    url="https://github.com/Buddhilive/Buddhilive-JavaFX-Browser"
   />
 </BaseLayout>

@@ -1,9 +1,10 @@
 ---
 title: "Machine Learning Algorithms Cheat Sheet"
-description: "...."
+description: "With the evolution of artificial intelligence, computer science researchers are constantly suggesting new approaches to make computers even more autonomous and capable of performing various tasks with precision."
 pubDate: "2021-02-09"
 categories: 
   - "machine-learning"
+heroImage: "/images/Machine+Learning+Algorithms.png"
 ---
 
 [![Machine Learning Algorithms Cheat Sheet and how to choose an algorithm](/images/Machine%2BLearning%2BAlgorithms.png)](https://1.bp.blogspot.com/-dzztxX7TY98/YCIIdwQk9tI/AAAAAAAAPlc/uNB_A8ZNlTcb1khH1rKQcByJWiS945PjACLcBGAsYHQ/s1280/Machine%2BLearning%2BAlgorithms.png)
